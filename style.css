@@ -1,4 +1,4 @@
-/* *,
+*,
 *::before,
 *::after {
   box-sizing: border-box;
@@ -24,7 +24,7 @@ dd {
 
 a {
   text-decoration: none;
-} */
+}
 
 /* ============== variant 1 HTML + CSS ================ */
 /* .menu {
@@ -67,7 +67,7 @@ a {
 
 /* ============== variant 2 HTML + CSS ================ */
 
-/* .menu {
+.menu {
   display: flex;
 }
 
@@ -110,9 +110,10 @@ a {
   position: absolute;
   top: 0;
   left: 100%;
-} */
+}
 
-/* ============== variant 2 HTML + CSS ================ */
+/* =================== variant 3 HTML + CSS ==================== */
+
 /* ============== variant 2 HTML + CSS ================ */
 /* ============== variant 2 HTML + CSS ================ */
 /* ============== variant 2 HTML + CSS ================ */
